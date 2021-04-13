@@ -14,21 +14,21 @@
 # SWOT ANALYSIS
    ![Untitled Workspace](https://user-images.githubusercontent.com/56036534/114536015-4b624880-9c6e-11eb-9850-47cd6719200b.jpg)
 
-4W's and 1'H
+# 4W's and 1'H
 # Who: 
-Minesweeper is a 
+   Minesweeper game is played all across the globe, some play because it is very engaging while some play during intervals. As this is a game with simple rules people of any age group can play as it only requires thinking ability and no physical work.
 
 # What:
-TBD
-
+   Minesweeper is a single-player perplex computer game. The goal of the diversion is to clear a rectangular board containing concealed "mines" or bombs without exploding any of them, with assistance from pieces of information about the quantity of neighbouring mines in each field. The amusement begins from the 1960s, and has been composed for some registering stages being used today. It has numerous varieties and offshoots.
+ 
 # When:
-TBD
+   This game can be played at anytime as time required to finish a single game is very less
 
 # Where:
-TBD
+   Minesweeper is a single-player perplex computer game. This game is played on the terminal.
 
 # How:
-TBD
+   This game is played using the mouse cursor to mark any points on the grid and flag a potential mine point.
 
 # Detail requirements
 # High Level Requirements:
