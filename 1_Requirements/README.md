@@ -12,8 +12,7 @@
    Minesweeper project is implemented on a 10x10 grid with a get mine function which is only called after the first click which is inputed by the used. Mousecursor is used to move around the grid and click any points on the grid. A flag function is created to mark a point which could be a probable mine.
    
 # SWOT ANALYSIS
-   ![image](https://user-images.githubusercontent.com/56036534/114535596-d7c03b80-9c6d-11eb-99ab-4c9fa7619fe4.png)
-
+   ![Untitled Workspace](https://user-images.githubusercontent.com/56036534/114536015-4b624880-9c6e-11eb-9850-47cd6719200b.jpg)
 
 4W's and 1'H
 # Who: 
