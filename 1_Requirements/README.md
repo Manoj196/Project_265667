@@ -37,16 +37,14 @@ TBD
 # Detail requirements
 # High Level Requirements:
    ID    | Description  | Status
-      1. |Grid |Implemented
-      2.|Mines|Implemented
-      3.|Cursor Move|Implemented
-      4.|Flag|Implemented
+    
 
 
 
 # Low level Requirements:
-  ID   -  Description  - Status
-  1.1  - 2D array Grid | Implemented
+  ID   |  Description  | Status
+  -----|---------------|-----------
+  1.1  | 2D array Grid | Implemented
   2.1  | Get Mine      | Implemented
   2.2  | Key generation| Implemented
   3.1  | Cursor move   | Implemented
