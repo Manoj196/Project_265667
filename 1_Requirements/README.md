@@ -38,10 +38,10 @@ TBD
 # High Level Requirements:
      ID  | Description | Status
      ----|-------------|------------
-     1.  |  Grid       | Implemented
-     2.  |  Mine       | Implemented
-     3.  |  Cursor move| Implemented
-     4.  |  flag       | Implemented
+     1  |  Grid       | Implemented
+     2  |  Mine       | Implemented
+     3  |  Cursor move| Implemented
+     4  |  flag       | Implemented
    
 # Low level Requirements:
   ID   |  Description  | Status
