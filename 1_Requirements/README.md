@@ -36,7 +36,20 @@ TBD
 
 # Detail requirements
 # High Level Requirements:
---- TBD in Tabular Format -- ID | Description | Status (Implemented/Future)
+  ID    |  Description  | Status
+  1.    |  Grid         | Implemented
+  2.    |  Mines        | Implemented
+  3.    |  Cursor Move  | Implemented
+  4.    |  Flag         | Implemented
+
+
 
 # Low level Requirements:
---- TBD in Tabular Format -- ID | Description | Status (Implemented/Future)
+  ID   |  Description  | Status
+  1.1  | 2D array Grid | Implemented
+  2.1  | Get Mine      | Implemented
+  2.2  | Key generation| Implemented
+  3.1  | Cursor move   | Implemented
+  3.2  | click option  | Implemented
+  4.1  | Flag          | Implemented
+  5.   | Display       | Implemented
