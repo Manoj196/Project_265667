@@ -1,3 +1,4 @@
 # Structure Diagram
-   ![image](https://user-images.githubusercontent.com/56036534/114548778-d434b080-9c7d-11eb-81f8-fb9de66a6738.png)
+   ![Untitled Workspace (2)](https://user-images.githubusercontent.com/56036534/114549396-95ebc100-9c7e-11eb-9e39-4e0c8a6b7344.jpg)
+
 
