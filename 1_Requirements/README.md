@@ -37,13 +37,10 @@ TBD
 # Detail requirements
 # High Level Requirements:
    ID    | Description  | Status
-   ------|--------------|------------
-     1. |Grid |Implemented
-   ------|--------------|------------
-     3.|Mines|Implemented
-   ------|--------------|------------
-     5.|Cursor Move|Implemented
-     6.|Flag|Implemented
+      1. |Grid |Implemented
+      2.|Mines|Implemented
+      3.|Cursor Move|Implemented
+      4.|Flag|Implemented
 
 
 
