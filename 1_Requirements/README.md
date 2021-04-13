@@ -52,4 +52,4 @@ TBD
   3.1  | Cursor move   | Implemented
   3.2  | click option  | Implemented
   4.1  | Flag          | Implemented
-  5.   | Display       | Implemented
+  5.1  | Display       | Implemented
