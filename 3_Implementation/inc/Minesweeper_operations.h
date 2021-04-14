@@ -9,54 +9,15 @@
  * 
  */
  
+#include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
+#include <conio.h>
+// #include <termios.h>
+ //#include <unistd.h>
 
-#ifndef __MINESWEEPER_OPERATIONS_H__
-#define __MINESWEEPER_OPERATIONS_H__
-
-#include<stdio.h>
-#include<stdlib.h>
-#include<time.h>
-/**
- * @brief  initializes all grid tiles to '.'
- * 
- */
-void init(); 
-
-/**
- * @brief prints grid with the cursor represented by <>
- * 
- */
-void display();
-
-/**
- * @brief randomly generates 10 mines
- * 
- */
-void genMine ();
-
-/**
- * @brief genreates keys around the mines
- * 
- */
-
-void keygen ();
-
-/**
- * @brief to flag a probable mine 
- * 
- */
-void flag ();
-
-/**
- * @brief moves cursor depending on value of n
- * 
- */
-void moveCursor (int n);
-
-/**
- * @brief click on the mine
- * 
- */
-void click (int x, int y);
-
-#endif
+char grid[10][10], key[10][10];
+int mine[10];
+int px = 0, py = 0;
+int win = 0, lose = 0;
+int firstClick = 0;
