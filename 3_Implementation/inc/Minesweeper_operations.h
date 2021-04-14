@@ -12,9 +12,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-#include <conio.h>
-// #include <termios.h>
- //#include <unistd.h>
+//#include <conio.h>
+#include <termios.h>
+#include <unistd.h>
 
 char grid[10][10], key[10][10];
 int mine[10];
