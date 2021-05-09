@@ -1,10 +1,8 @@
-all: sweep.exe
+build: Minesweeper_main.c Src/Minesweeper_operations.c inc/Minesweeper_operations.h
+	gcc $^ -Iinc -o Minesweeper_main.out -lm
 
-sweep.exe: sweep.o
-	gcc -o sweep.exe sweep.o
+run: build
+	./Minesweeper_main.out
 
-sweep.o: sweep.c
-	gcc -c sweep.c
-     
 clean:
-	rm sweep.o sweep.exe
+	rm -f Minesweeper_main.out
