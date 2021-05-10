@@ -1,5 +1,5 @@
 # Requirements
-# Introduction
+## Introduction
    Minesweeper is a single-player perplex computer game. The goal of the diversion is to clear a rectangular board containing concealed "mines" or bombs without exploding any of them, with assistance from pieces of information about the quantity of neighbouring mines in each field. The amusement begins from the 1960s, and has been composed for some registering stages being used today. It has numerous varieties and offshoots.
 
 # Research
